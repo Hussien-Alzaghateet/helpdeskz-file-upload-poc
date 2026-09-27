@@ -22,7 +22,7 @@ and request the URL until one returns `200`.
 ## Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install requests
 ```
 
 ## Usage
