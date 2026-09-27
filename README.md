@@ -19,11 +19,6 @@ uploading we just walk backwards from "now", rebuild that MD5 for each second,
 and request the URL until one returns `200`.
 
 ----------
-## Requirements
-
-```bash
-pip install requests
-```
 
 ## Usage
 
